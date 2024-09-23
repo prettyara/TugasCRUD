@@ -1,0 +1,28 @@
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\Koneksi Login.exe.config
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\Koneksi Login.exe
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\Koneksi Login.pdb
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Data.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Web.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\ZstdNet.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\System.Buffers.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Data.xml
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\asus\source\repos\Tugas CRUD\bin\Debug\MySql.Web.xml
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Tugas CRUD.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Tugas CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi Login.exe.config
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi_Login.Form1.resources
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi_Login.Form2.resources
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi_Login.Properties.Resources.resources
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Tugas CRUD.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Tugas CRUD.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Tugas CRUD.csproj.Up2Date
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi Login.exe
+C:\Users\asus\source\repos\Tugas CRUD\obj\Debug\Koneksi Login.pdb
